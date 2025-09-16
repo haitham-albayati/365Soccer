@@ -1,0 +1,12 @@
+node_modules/*
+cypress/reports/*
+dist/
+.DS_Store
+.idea
+cypress/videos/*
+cypress/screenshots/*
+cypress/downloads/*
+practiec.cy.js
+test.cy.js
+.env
+cypress/e2e/integration/mock3.cy.js
